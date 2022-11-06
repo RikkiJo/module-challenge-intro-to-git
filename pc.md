@@ -26,4 +26,4 @@ Now that you are all set up, it's time to learn a little more about the tools of
    This happens when git cannot automatically resolve code differences between two or more commits.
 
 8. How do you resolve a merge conflict?
-   open the file and make the necessary changes.
+   open the file then make the necessary changes.
